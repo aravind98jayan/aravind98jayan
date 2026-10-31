@@ -25,8 +25,7 @@ A Python tool I built for static malware triage. It analyses suspicious files wi
 
 ## Practical Experience
 
-- ~ rooms completed and 13 badges on [TryHackMe](YOUR_THM_LINK)
-- 200+ labs and machines across TryHackMe, Hack The Box, PortSwigger Academy, BTLO and Hacknetics
+- 250+ labs and machines across TryHackMe, Hack The Box, PortSwigger Academy, BTLO and Hacknetics
 - Pentest reports written for web application, network and Active Directory assessments during OCSP training
 
 ## Tools and Technologies
