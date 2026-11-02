@@ -39,7 +39,7 @@ A Python tool I built for static malware triage. It analyses suspicious files wi
 ## Practical Experience
 
 - 250+ labs and machines across TryHackMe, Hack The Box, PortSwigger Academy, BTLO and Hacknetics
-- 23 TryHackMe SOC rooms covering alert triage and reporting, SIEM, Splunk SPL, Wazuh, Windows and Linux logging, phishing analysis and threat intelligence
+- Multiple TryHackMe SOC rooms covering alert triage and reporting, SIEM, Splunk SPL, Wazuh, Windows and Linux logging, phishing analysis and threat intelligence
 - Threat hunting lab in Elastic/Kibana using Sysmon events and KQL to detect LOLBin activity
 - Pentest reports written for web application, network and Active Directory assessments during OCSP training
 - Participated in Offenso CTF, Hackathon Monopoly, Bug Bounty Bootcamp and Hacknetics; completed the full TryHackMe holiday challenge
