@@ -55,4 +55,4 @@ A Python tool I built for static malware triage. It analyses suspicious files wi
 ## Contact
 
 Based in Kerala, India. Open to relocation.
-[LinkedIn](https://www.linkedin.com/in/aravind-jayan-)
+[LinkedIn](https://www.linkedin.com/in/aravindjayan98)
