@@ -14,7 +14,7 @@ Web application, network and Active Directory penetration testing, with clear, r
 
 ## Featured Project
 
-**[StaticGuard](https://github.com/ar4vin6/static-malware-triage-tool)**
+**[StaticGuard](https://github.com/aravind98jayan/StaticGuard)**
 A Python tool I built for static malware triage. It analyses suspicious files without executing them and gives a risk score and verdict for each file.
 
 ## Certifications
