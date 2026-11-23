@@ -2,7 +2,7 @@
 
 **Aspiring Cybersecurity Professional | SOC & VAPT**
 
-My background spans hands-on SOC training and practical penetration testing through Offenso Hackers Academy’s OCSP program. I’ve built my experience through labs on TryHackMe, Hack The Box, PortSwigger Web Security Academy, and BTLO. I use Splunk, Wazuh, Kibana/Elastic, and Microsoft Sentinel for security monitoring and log analysis, and have used CrowdStrike Falcon and Elastic Defend for endpoint monitoring, alert investigation, and incident response. I’m currently learning SentinelOne and Microsoft Defender. My offensive security experience includes web application, network, and Active Directory penetration testing, as well as mobile security testing with Postman and Ghidra. I built StaticGuard as part of the OCSP program.
+My background spans hands-on SOC training and practical penetration testing through Offenso Hackers Academy’s OCSP program. I’ve built my experience through labs on TryHackMe, Hack The Box, PortSwigger Web Security Academy, and BTLO. I use Splunk, Wazuh, Kibana/Elastic, and Microsoft Sentinel for security monitoring and log analysis, and have used CrowdStrike Falcon and Elastic Defend for endpoint monitoring, alert investigation, and incident response. My offensive security experience includes web application, network, and Active Directory penetration testing, as well as mobile security testing with Postman and Ghidra. I built StaticGuard as part of the OCSP program.
 
 ## Focus Areas
 
@@ -10,7 +10,7 @@ My background spans hands-on SOC training and practical penetration testing thro
 
 **SOC operations and log analysis**
 
-Alert triage and investigation; analysis of Windows, Linux, Sysmon, network, and authentication logs; event correlation and threat detection using Splunk, Microsoft Sentinel, Kibana/Elastic, and LogRhythm. Experience with IBM QRadar, alert creation, and timeline building is more limited.
+Alert triage and investigation; analysis of Windows, Linux, Sysmon, network, and authentication logs; event correlation and threat detection using Splunk, Wazuh, Microsoft Sentinel, Kibana/Elastic, and LogRhythm. Experience with IBM QRadar, alert creation, and timeline building is more limited.
 
 **Endpoint security and incident response**
 
@@ -28,7 +28,7 @@ Network traffic analysis with Wireshark and tcpdump; vulnerability scanning and 
 
 **Web application and API testing**
 
-Hands-on experience testing common web application and API vulnerabilities, including authentication and session handling, access control and IDOR, SQL injection, XSS, CSRF, SSRF, path traversal, file uploads, and API testing. Tools include Burp Suite, OWASP ZAP, ffuf, Gobuster, Nmap, SQLmap, Nuclei, and Postman. 
+Hands-on experience testing web applications and APIs, including authentication and session handling, access control and IDOR, SQL injection, XSS, CSRF, SSRF, path traversal, and file upload vulnerabilities. Tools include Burp Suite, OWASP ZAP, ffuf, Gobuster, Nmap, SQLmap, Nuclei, and Postman. 
 
 **Network and Active Directory testing**
 
@@ -52,7 +52,7 @@ A Python tool I built for static malware triage. It analyses suspicious files wi
 - Supports multiple file types, with more being added
 - Lightweight terminal tool with a minimal footprint
 
-**[slatewire](https://github.com/aravind98jayan/slatewire)**
+**[Slatewire](https://github.com/aravind98jayan/slatewire)**
 A local-first Windows desktop app that brings cybersecurity news from global sources into one dashboard. It sorts and enriches stories to help users track emerging threats, with optional AI-generated briefs.
 - Aggregates live updates from 41 RSS/Atom feeds across 30 countries, including government CERTs and security research sources
 - Organizes stories by severity and category, groups coverage of the same story, and displays where reports originate
@@ -79,9 +79,9 @@ A local-first Windows desktop app that brings cybersecurity news from global sou
 - Completed more than 300 rooms, labs, and machines across TryHackMe, Hack The Box, PortSwigger Web Security Academy, and BTLO.
 - Completed TryHackMe SOC rooms involving alert triage, SIEM investigations, Windows and Linux logging, phishing analysis, and threat intelligence.
 - Conducted a threat-hunting lab in Elastic/Kibana, using Sysmon events and KQL to investigate LOLBin activity.
-- Performed web application, network, and Active Directory assessments during OCSP coursework and documented findings in reports.
+- Completed web application, network, and Active Directory assessment exercises as part of OCSP coursework.
 - Practiced mobile application security testing through hands-on labs and coursework.
-- Completed incident response exercises focused on investigating alerts, collecting evidence, and documenting findings.
+- Worked through incident-response scenarios in labs, from alert investigation to documenting findings.
 - Participated in Offenso CTF, Hackathon Monopoly, Bug Bounty Bootcamp and Hacknetics, and completed the TryHackMe holiday challenge.
 
 ## Tools and Technologies
@@ -96,7 +96,7 @@ A local-first Windows desktop app that brings cybersecurity news from global sou
 
 **Scripting and development:** `Python` `Bash` `PowerShell` `Git` `Docker` `Flask` `pywebview` 
 
-**Malware Analysis:** `VirusTotal` `YARA` `capa`
+**Malware Analysis:**  `YARA` `capa`
 
 ## Contact
 
