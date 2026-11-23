@@ -2,37 +2,45 @@
 
 **Aspiring Cybersecurity Professional | SOC & VAPT**
 
-My background spans hands-on SOC training and practical penetration testing through Offenso Hackers Academy’s OCSP program. Across TryHackMe, Hack The Box, PortSwigger Web Security Academy, and BTLO. I work with Splunk, Wazuh, and Kibana for security monitoring and log analysis, and have used Microsoft Sentinel and CrowdStrike Falcon for endpoint monitoring, alert investigation, and incident response. My offensive security experience includes web application, network, and Active Directory penetration testing, plus mobile penetration testing with Postman and Ghidra. I also built StaticGuard as part of the OCSP program, putting my security training into practice through a malware triage tool.
+My background spans hands-on SOC training and practical penetration testing through Offenso Hackers Academy’s OCSP program. I’ve built my experience through labs on TryHackMe, Hack The Box, PortSwigger Web Security Academy, and BTLO. I use Splunk, Wazuh, Kibana/Elastic, and Microsoft Sentinel for security monitoring and log analysis, and have used CrowdStrike Falcon and Elastic Defend for endpoint monitoring, alert investigation, and incident response. I’m currently learning SentinelOne and Microsoft Defender. My offensive security experience includes web application, network, and Active Directory penetration testing, as well as mobile security testing with Postman and Ghidra. I built StaticGuard as part of the OCSP program.
 
 ## Focus Areas
 
-###Defensive security
+### Defensive security
 
 **SOC operations and log analysis**
-Alert triage and investigation; analysis of Windows, Linux, Sysmon, network, and authentication logs; event correlation and threat detection using Splunk, Microsoft Sentinel, Kibana/Elastic, and LogRhythm. Experience with IBM QRadar, alert creation, and timeline building is more limited. Firewall log analysis and writing detection rules are areas to develop.
+
+Alert triage and investigation; analysis of Windows, Linux, Sysmon, network, and authentication logs; event correlation and threat detection using Splunk, Microsoft Sentinel, Kibana/Elastic, and LogRhythm. Experience with IBM QRadar, alert creation, and timeline building is more limited.
 
 **Endpoint security and incident response**
-Endpoint monitoring and alert investigation using CrowdStrike Falcon and Elastic Defend. Learning SentinelOne and Microsoft Defender. Familiar with the incident response lifecycle, evidence collection, and incident documentation; containment, eradication, recovery, and building incident timelines are currently theoretical.
+
+Endpoint monitoring and alert investigation using CrowdStrike Falcon and Elastic Defend. Learning SentinelOne and Microsoft Defender. Practiced incident investigation, evidence collection, and documentation; studied containment, eradication, and recovery.
 
 **Threat hunting and intelligence**
-Threat hunting, IOC enrichment, phishing analysis, and mapping suspicious activity to MITRE ATT&CK. Experience with VirusTotal, AbuseIPDB, URLScan.io, AlienVault OTX, MISP, Cisco Talos, CyberChef, and Shodan. Less experience tuning SIEM and endpoint detections.
+
+Threat hunting, IOC enrichment, phishing analysis, and mapping suspicious activity to MITRE ATT&CK. Experience with VirusTotal, AbuseIPDB, URLScan.io, AlienVault OTX, MISP, Cisco Talos, CyberChef, and Shodan.
 
 **Network, malware, and vulnerability analysis**
-Network traffic analysis with Wireshark and tcpdump; vulnerability scanning and review using Nessus and OpenVAS. Experience with static malware triage and sandbox platforms, with less experience in both areas. Firewall monitoring and Rapid7 InsightVM are areas to develop.
 
-###Offensive security
+Network traffic analysis with Wireshark and tcpdump; vulnerability scanning and review using Nessus and OpenVAS. Some experience with static malware triage and sandbox analysis.
+
+### Offensive security
 
 **Web application and API testing**
-Hands-on experience testing common web application and API vulnerabilities, including authentication, access control, injection, and server-side issues. Tools include Burp Suite, OWASP ZAP, ffuf, Gobuster, Nmap, SQLmap, Nuclei, and Postman; less experience with OWASP ZAP and Nuclei.
+
+Hands-on experience testing common web application and API vulnerabilities, including authentication and session handling, access control and IDOR, SQL injection, XSS, CSRF, SSRF, path traversal, file uploads, and API testing. Tools include Burp Suite, OWASP ZAP, ffuf, Gobuster, Nmap, SQLmap, Nuclei, and Postman. 
 
 **Network and Active Directory testing**
-Experience with network discovery, enumeration, vulnerability assessment, and exploitation, as well as Active Directory enumeration, attack techniques, and credential testing. Tools include Nmap, Nessus, OpenVAS, Metasploit, Wireshark, tcpdump, Hydra, Netcat, BloodHound, Impacket, CrackMapExec, Mimikatz, Hashcat, and John the Ripper. Less experience with Masscan.
+
+Experience with network discovery, enumeration, vulnerability assessment, and exploitation, as well as Active Directory enumeration, attack techniques, and credential testing. Tools include Nmap, Nessus, OpenVAS, Metasploit, Wireshark, tcpdump, Hydra, Netcat, BloodHound, Impacket, CrackMapExec, Mimikatz, Hashcat, and John the Ripper.
 
 **Mobile application testing**
-Experience with mobile application inspection, reverse engineering, and security testing using tools such as JADX, APKTool, Ghidra, MobSF, adb, Burp Suite, and Postman. Less experience with Frida and dynamic analysis.
+
+Experience with mobile application inspection, reverse engineering, and security testing using tools such as JADX, APKTool, Ghidra, MobSF, adb, Burp Suite, and Postman.
 
 **Methodology and reporting**
-Applied OWASP and PTES guidance during labs and OCSP coursework, and written reports for those assessments. Less experience assigning risk ratings; this work has been in training contexts rather than professional engagements.
+
+Applied OWASP and PTES guidance in labs and OCSP coursework; wrote assessment reports documenting findings and recommendations.
 
 ## Featured Projects
 
@@ -69,26 +77,26 @@ A local-first Windows desktop app that brings cybersecurity news from global sou
 ## Practical Experience
 
 - Completed more than 300 rooms, labs, and machines across TryHackMe, Hack The Box, PortSwigger Web Security Academy, and BTLO.
-- Practiced alert triage and endpoint investigations with CrowdStrike Falcon, Elastic Defend, Splunk, Microsoft Sentinel, Kibana/Elastic, and LogRhythm.
-- Analyzed Windows, Linux, Sysmon, network, and authentication logs to investigate events and identify suspicious activity.
-- Practiced threat hunting, IOC enrichment, and phishing analysis with VirusTotal, AbuseIPDB, URLScan.io, MISP, and CyberChef.
-- Completed incident response exercises involving investigation, evidence collection, and documentation; studied containment, eradication, and recovery processes.
-- Tested web applications and APIs in labs using Burp Suite, Postman, ffuf, Gobuster, and SQLmap.
-- Practiced network and Active Directory penetration testing using tools such as Nmap, Nessus, Metasploit, BloodHound, and Impacket.
-- Performed mobile application security testing with tools including JADX, APKTool, Ghidra, MobSF, and adb.
-- Wrote assessment reports during labs and OCSP coursework, applying OWASP and PTES guidance.
+- Completed TryHackMe SOC rooms involving alert triage, SIEM investigations, Windows and Linux logging, phishing analysis, and threat intelligence.
+- Conducted a threat-hunting lab in Elastic/Kibana, using Sysmon events and KQL to investigate LOLBin activity.
+- Performed web application, network, and Active Directory assessments during OCSP coursework and documented findings in reports.
+- Practiced mobile application security testing through hands-on labs and coursework.
+- Completed incident response exercises focused on investigating alerts, collecting evidence, and documenting findings.
+- Participated in Offenso CTF, Hackathon Monopoly, Bug Bounty Bootcamp and Hacknetics, and completed the TryHackMe holiday challenge.
 
 ## Tools and Technologies
 
 **SIEM and monitoring:** `Splunk` `Elastic (ELK)` `Wazuh` `Microsoft Sentinel (KQL)` `Sysmon` `CrowdStrike Falcon` `IBM QRadar` `LogRhythm` `Elastic Defend`
 
-**Threat intelligence:** `VirusTotal` `AbuseIPDB` `URLScan.io` `AlienVault OTX` `MISP` `Cisco Talos` `CyberChef` `Shodan` `YARA` `capa`
+**Threat intelligence:** `VirusTotal` `AbuseIPDB` `URLScan.io` `AlienVault OTX` `MISP` `Cisco Talos` `CyberChef` `Shodan`
 
-**Network and vulnerability:** `Wireshark` `tcpdump` `Snort` `Nmap` `Netcat` `Nessus` `OpenVAS` `Nikto` `Masscan`
+**Network and vulnerability:** `Wireshark` `tcpdump` `Snort` `Nmap` `Netcat` `Nessus` `OpenVAS` `Nikto`
 
 **Offensive:** `Kali Linux` `Burp Suite` `Metasploit` `SQLmap` `Hydra` `John the Ripper` `Hashcat` `Gobuster` `ffuf` `BloodHound` `Impacket` `CrackMapExec` `Mimikatz` `Postman` `Ghidra`
 
 **Scripting and development:** `Python` `Bash` `PowerShell` `Git` `Docker` `Flask` `pywebview` 
+
+**Malware Analysis:** `VirusTotal` `YARA` `capa`
 
 ## Contact
 
