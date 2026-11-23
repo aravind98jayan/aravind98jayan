@@ -79,9 +79,13 @@ A local-first Windows desktop app that brings cybersecurity news from global sou
 ## Tools and Technologies
 
 **SIEM and monitoring:** `Splunk` `Elastic (ELK)` `Wazuh` `Microsoft Sentinel (KQL)` `Sysmon` `CrowdStrike Falcon` `IBM QRadar` `LogRhythm` `Elastic Defend`
+
 **Threat intelligence:** `VirusTotal` `AbuseIPDB` `URLScan.io` `AlienVault OTX` `MISP` `Cisco Talos` `CyberChef` `Shodan` `YARA` `capa`
+
 **Network and vulnerability:** `Wireshark` `tcpdump` `Snort` `Nmap` `Netcat` `Nessus` `OpenVAS` `Nikto` `Masscan`
+
 **Offensive:** `Kali Linux` `Burp Suite` `Metasploit` `SQLmap` `Hydra` `John the Ripper` `Hashcat` `Gobuster` `ffuf` `BloodHound` `Impacket` `CrackMapExec` `Mimikatz` `Postman` `Ghidra`
+
 **Scripting and development:** `Python` `Bash` `PowerShell` `Git` `Docker` `Flask` `pywebview` 
 
 ## Contact
